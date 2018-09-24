@@ -1,0 +1,18 @@
+{
+  "name": "fetch-timer",
+  "version": "1.0.8",
+  "description": "Just a simple wrapper to the regular fetch function to enable timeout in miliseconds",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fetch",
+    "timeout"
+  ],
+  "author": "Alfonso Gomez",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.2.0"
+  }
+}
