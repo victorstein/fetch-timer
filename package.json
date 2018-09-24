@@ -1,6 +1,6 @@
 {
   "name": "fetch-timer",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "Just a simple wrapper to the regular fetch function to enable timeout in miliseconds",
   "main": "index.js",
   "scripts": {
